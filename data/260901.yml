@@ -1,0 +1,67 @@
+about:
+  description: Docker-based local PHP+Node.js web development environments
+  license: Apache-2.0
+  homepage: https://ddev.com
+  head: 71b1add
+  archived: false
+  latestVersion: v1.25.3
+  collectedAt: 2026-09-01T05:11:50Z
+timeline:
+  created: 2017-02-01
+  lastCommit: 2026-08-31
+  lastRelease: 2026-07-06
+popularity:
+  star: 3823
+  watcher: 57
+  fork: 719
+  release: 223
+  contributor: 390
+  pullRequest: 517
+  issue: 3584
+language:
+  Go: 3328271
+  Shell: 570113
+  PHP: 284512
+  NSIS: 101044
+  JavaScript: 64682
+  Dockerfile: 43914
+  Makefile: 36739
+  HTML: 28057
+  PowerShell: 15271
+  C: 2486
+  CSS: 1936
+  Batchfile: 801
+totalLine: 4477826
+recent:
+  last30d:
+    since: 2026-08-02
+    release: 0
+    mergedPR: 74
+    openPR: 8
+    closedIssue: 18
+    openIssue: 25
+    commit: 77
+  last90d:
+    since: 2026-06-03
+    release: 1
+    mergedPR: 204
+    openPR: 9
+    closedIssue: 67
+    openIssue: 41
+    commit: 206
+  last180d:
+    since: 2026-03-05
+    release: 2
+    mergedPR: 347
+    openPR: 10
+    closedIssue: 125
+    openIssue: 55
+    commit: 357
+  last360d:
+    since: 2025-09-06
+    release: 7
+    mergedPR: 681
+    openPR: 10
+    closedIssue: 314
+    openIssue: 86
+    commit: 684
