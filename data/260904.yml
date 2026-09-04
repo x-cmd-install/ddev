@@ -1,11 +1,13 @@
 about:
-  description: Docker-based local PHP+Node.js web development environments
+  description:
+  |
+    Docker-based local PHP+Node.js web development environments
   license: Apache-2.0
   homepage: https://ddev.com
   head: 13a50dc
   archived: false
   latestVersion: v1.25.4
-  collectedAt: 2026-09-04T04:36:13Z
+  collectedAt: 2026-09-04T19:35:45Z
 timeline:
   created: 2017-02-01
   lastCommit: 2026-09-03
@@ -16,8 +18,8 @@ popularity:
   fork: 719
   release: 224
   contributor: 390
-  pullRequest: 519
-  issue: 3586
+  pullRequest: 4987
+  issue: 3587
 language:
   Go: 3328182
   Shell: 570848
@@ -31,37 +33,63 @@ language:
   C: 2486
   CSS: 1936
   Batchfile: 801
-totalLine: 4478102
+totalBytes: 4478102
 recent:
   last30d:
     since: 2026-08-05
     release: 1
     mergedPR: 75
-    openPR: 10
+    openPR: 12
     closedIssue: 16
-    openIssue: 26
+    openIssue: 27
     commit: 85
+  last60d:
+    since: 2026-07-06
+    release: 2
+    mergedPR: 136
+    openPR: 13
+    closedIssue: 41
+    openIssue: 35
+    commit: 145
   last90d:
     since: 2026-06-06
     release: 2
     mergedPR: 211
-    openPR: 11
+    openPR: 13
     closedIssue: 64
-    openIssue: 42
+    openIssue: 43
     commit: 214
   last180d:
     since: 2026-03-08
     release: 3
     mergedPR: 355
-    openPR: 12
+    openPR: 14
     closedIssue: 125
-    openIssue: 56
+    openIssue: 57
     commit: 365
   last360d:
     since: 2025-09-09
     release: 8
     mergedPR: 682
-    openPR: 12
+    openPR: 14
     closedIssue: 310
-    openIssue: 87
+    openIssue: 88
     commit: 692
+  last720d:
+    since: 2024-09-14
+    release: 17
+    mergedPR: 1255
+    openPR: 14
+    closedIssue: 660
+    openIssue: 111
+    commit: 1266
+total:
+  release: 224
+  mergedPR: 4465
+  openPR: 14
+  closedIssue: 3434
+  openIssue: 153
+  commit: 4727
+---
+---
+
