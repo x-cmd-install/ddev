@@ -5,19 +5,19 @@ about:
   head: 35a2ab1
   archived: false
   latestVersion: "v1.25.4"
-  collectedAt: 2026-09-08T01:31:41Z
+  collectedAt: 2026-09-08T04:22:40Z
 timeline:
   created: 2017-02-01
   lastCommit: 2026-09-07
   lastRelease: 2026-09-02
 popularity:
-  star: 3831
+  star: 3832
   watcher: 56
   fork: 717
   release: 224
   contributor: 390
   pullRequest: 4990
-  issue: 3590
+  issue: 3591
 language:
   Go: 3328814
   Shell: 570488
@@ -39,7 +39,7 @@ recent:
     mergedPR: 69
     openPR: 9
     closedIssue: 15
-    openIssue: 30
+    openIssue: 31
     commit: 70
   last60d:
     since: 2026-07-10
@@ -47,7 +47,7 @@ recent:
     mergedPR: 135
     openPR: 10
     closedIssue: 35
-    openIssue: 36
+    openIssue: 37
     commit: 144
   last90d:
     since: 2026-06-10
@@ -55,7 +55,7 @@ recent:
     mergedPR: 206
     openPR: 10
     closedIssue: 62
-    openIssue: 44
+    openIssue: 45
     commit: 215
   last180d:
     since: 2026-03-12
@@ -63,7 +63,7 @@ recent:
     mergedPR: 352
     openPR: 11
     closedIssue: 117
-    openIssue: 60
+    openIssue: 61
     commit: 364
   last360d:
     since: 2025-09-13
@@ -71,7 +71,7 @@ recent:
     mergedPR: 684
     openPR: 11
     closedIssue: 305
-    openIssue: 90
+    openIssue: 91
     commit: 681
   last720d:
     since: 2024-09-18
@@ -79,18 +79,18 @@ recent:
     mergedPR: 1255
     openPR: 11
     closedIssue: 658
-    openIssue: 114
+    openIssue: 115
     commit: 1267
 total:
   release: 224
   mergedPR: 4471
   openPR: 11
   closedIssue: 3434
-  openIssue: 156
+  openIssue: 157
   commit: 4733
 ---
 path: /home/runner/.x-repo/github.com/ddev/ddev
-collectedAt: 2026-09-08T01:32:01Z
+collectedAt: 2026-09-08T04:22:52Z
 loc:
   Go:
     code: 910936
