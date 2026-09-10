@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.25.4"
   latestRelease: "v1.25.4"
   latestPrerelease: "v1.23.0-rc2"
-  collectedAt: 2026-09-10T04:26:07Z
+  collectedAt: 2026-09-10T15:50:01Z
 timeline:
   created: 2017-02-01
   lastCommit: 2026-09-09
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-09-02
   lastPrerelease: 2024-04-15
 popularity:
-  star: 3835
+  star: 3836
   watcher: 56
   fork: 718
   release: 224
@@ -94,7 +94,7 @@ total:
   commit: 4737
 ---
 path: /home/runner/.x-repo/github.com/ddev/ddev
-collectedAt: 2026-09-10T04:26:19Z
+collectedAt: 2026-09-10T15:50:26Z
 loc:
   Go:
     code: 910995
