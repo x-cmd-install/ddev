@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1683,
       "digest": "sha256:e6845f3a9fa7f076f4dcc7136b48ed841ea726f990adc2a304a3a9c74d045157",
-      "download_count": 15424,
+      "download_count": 17081,
       "created_at": "2026-09-02T14:00:28Z",
       "updated_at": "2026-09-02T14:00:28Z",
       "browser_download_url": "https://github.com/ddev/ddev/releases/download/v1.25.4/checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 4574430,
       "digest": "sha256:a1198c068c18a00c040e48cc36e45da948cb8eb4ec5584d9e3776f0038fa4502",
-      "download_count": 30,
+      "download_count": 39,
       "created_at": "2026-09-02T14:00:28Z",
       "updated_at": "2026-09-02T14:00:29Z",
       "browser_download_url": "https://github.com/ddev/ddev/releases/download/v1.25.4/ddev-wsl2_1.25.4_linux_amd64.deb"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 4575604,
       "digest": "sha256:9c69caed8a5c41efb300556d916844ca7e87ea31091a3a9aa0c256a3ffbef2a1",
-      "download_count": 15,
+      "download_count": 17,
       "created_at": "2026-09-02T14:00:27Z",
       "updated_at": "2026-09-02T14:00:28Z",
       "browser_download_url": "https://github.com/ddev/ddev/releases/download/v1.25.4/ddev-wsl2_1.25.4_linux_amd64.rpm"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 4247678,
       "digest": "sha256:1a61239e5a809f3703d398d99364829cc330ea6f7568f93f9cb8c3152bed617d",
-      "download_count": 18,
+      "download_count": 22,
       "created_at": "2026-09-02T14:00:28Z",
       "updated_at": "2026-09-02T14:00:28Z",
       "browser_download_url": "https://github.com/ddev/ddev/releases/download/v1.25.4/ddev-wsl2_1.25.4_linux_arm64.deb"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 4249007,
       "digest": "sha256:07d50193be8562de25691fe79935f375070c9f2ec9c3dcd63079907f0ee3a06f",
-      "download_count": 13,
+      "download_count": 15,
       "created_at": "2026-09-02T14:00:27Z",
       "updated_at": "2026-09-02T14:00:28Z",
       "browser_download_url": "https://github.com/ddev/ddev/releases/download/v1.25.4/ddev-wsl2_1.25.4_linux_arm64.rpm"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 18920298,
       "digest": "sha256:e731aaf1f8a890b4f44ee2e0a9ce92e9c7052919771519aa9f222fb4375dfcd7",
-      "download_count": 457,
+      "download_count": 471,
       "created_at": "2026-09-02T14:00:27Z",
       "updated_at": "2026-09-02T14:00:28Z",
       "browser_download_url": "https://github.com/ddev/ddev/releases/download/v1.25.4/ddev_1.25.4_linux_amd64.deb"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 18924320,
       "digest": "sha256:51791e71f8d540149283796398aff7ce2d2f1a3343f9c9265365755468b07b14",
-      "download_count": 26,
+      "download_count": 29,
       "created_at": "2026-09-02T14:00:26Z",
       "updated_at": "2026-09-02T14:00:27Z",
       "browser_download_url": "https://github.com/ddev/ddev/releases/download/v1.25.4/ddev_1.25.4_linux_amd64.rpm"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 17209130,
       "digest": "sha256:9259e9fd6b8b4df0dc38c572c16479dff0539499c334ebd3d64b643f1fc9dbb0",
-      "download_count": 25,
+      "download_count": 29,
       "created_at": "2026-09-02T14:00:26Z",
       "updated_at": "2026-09-02T14:00:27Z",
       "browser_download_url": "https://github.com/ddev/ddev/releases/download/v1.25.4/ddev_1.25.4_linux_arm64.deb"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 17205169,
       "digest": "sha256:0035ffc88e7c13f070efe7e7b25fed6a73e988f7253ff1c27d68ce13346c322a",
-      "download_count": 18,
+      "download_count": 21,
       "created_at": "2026-09-02T14:00:26Z",
       "updated_at": "2026-09-02T14:00:27Z",
       "browser_download_url": "https://github.com/ddev/ddev/releases/download/v1.25.4/ddev_1.25.4_linux_arm64.rpm"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 18924388,
       "digest": "sha256:65fb822f0d2874220c8f9a6b2dfec095d37c0fdc555e34dc5b0e5f4177beeb93",
-      "download_count": 18354,
+      "download_count": 20270,
       "created_at": "2026-09-02T14:00:24Z",
       "updated_at": "2026-09-02T14:00:26Z",
       "browser_download_url": "https://github.com/ddev/ddev/releases/download/v1.25.4/ddev_linux-amd64.v1.25.4.tar.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 17214505,
       "digest": "sha256:41b1412c83e7e2ae04887f02a9b4bf6d441c6f662773d97979e9fe23acf93c0a",
-      "download_count": 133,
+      "download_count": 149,
       "created_at": "2026-09-02T14:00:25Z",
       "updated_at": "2026-09-02T14:00:26Z",
       "browser_download_url": "https://github.com/ddev/ddev/releases/download/v1.25.4/ddev_linux-arm64.v1.25.4.tar.gz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 19910153,
       "digest": "sha256:05aa309c0e8cd7a14696da93e99efd7b91ec7a1994dd8218674fbfad283aa832",
-      "download_count": 267,
+      "download_count": 282,
       "created_at": "2026-09-02T14:00:21Z",
       "updated_at": "2026-09-02T14:00:23Z",
       "browser_download_url": "https://github.com/ddev/ddev/releases/download/v1.25.4/ddev_macos-amd64.v1.25.4.tar.gz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 17989668,
       "digest": "sha256:af68d362bf006d86e582ccd4f7e40926ba19a451b394cb375f93971272fb41ea",
-      "download_count": 3921,
+      "download_count": 4132,
       "created_at": "2026-09-02T14:00:21Z",
       "updated_at": "2026-09-02T14:00:23Z",
       "browser_download_url": "https://github.com/ddev/ddev/releases/download/v1.25.4/ddev_macos-arm64.v1.25.4.tar.gz"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 20479,
       "digest": "sha256:4e576f2cddc2cb997751e9d2fa238cd915b721ea232f0f6be160c5a8d80c9cb4",
-      "download_count": 8,
+      "download_count": 10,
       "created_at": "2026-09-02T14:00:21Z",
       "updated_at": "2026-09-02T14:00:22Z",
       "browser_download_url": "https://github.com/ddev/ddev/releases/download/v1.25.4/ddev_shell_completion_scripts.v1.25.4.tar.gz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 19489003,
       "digest": "sha256:93193fffbdca7e73675a87d681b44112fd85cf6659d62feb0a517714083cbce8",
-      "download_count": 77,
+      "download_count": 83,
       "created_at": "2026-09-02T14:00:24Z",
       "updated_at": "2026-09-02T14:00:25Z",
       "browser_download_url": "https://github.com/ddev/ddev/releases/download/v1.25.4/ddev_windows-amd64.v1.25.4.zip"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 17521013,
       "digest": "sha256:ddfe08b3d3af8357de7374fbb2147f864f51b1e5ea3db1504a18d3bb070b72d1",
-      "download_count": 23,
+      "download_count": 27,
       "created_at": "2026-09-02T14:00:21Z",
       "updated_at": "2026-09-02T14:00:23Z",
       "browser_download_url": "https://github.com/ddev/ddev/releases/download/v1.25.4/ddev_windows-arm64.v1.25.4.zip"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 38131440,
       "digest": "sha256:a0bca7d8f97612d2aafaa627ff941aa3eb427d4d6014f0395cc01ac612abe9ae",
-      "download_count": 1515,
+      "download_count": 1627,
       "created_at": "2026-09-02T14:00:22Z",
       "updated_at": "2026-09-02T14:00:24Z",
       "browser_download_url": "https://github.com/ddev/ddev/releases/download/v1.25.4/ddev_windows_amd64_installer.v1.25.4.exe"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 34413688,
       "digest": "sha256:5793174b1c8d6b0cde4e372f245071890bb9dab1fd8c5f979b8fa1727a3b23b4",
-      "download_count": 81,
+      "download_count": 90,
       "created_at": "2026-09-02T14:00:23Z",
       "updated_at": "2026-09-02T14:00:25Z",
       "browser_download_url": "https://github.com/ddev/ddev/releases/download/v1.25.4/ddev_windows_arm64_installer.v1.25.4.exe"
