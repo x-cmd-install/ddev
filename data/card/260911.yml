@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.25.4"
   latestRelease: "v1.25.4"
   latestPrerelease: "v1.23.0-rc2"
-  collectedAt: 2026-09-11T00:06:30Z
+  collectedAt: 2026-09-11T04:25:33Z
 timeline:
   created: 2017-02-01
   lastCommit: 2026-09-09
@@ -41,7 +41,7 @@ recent:
     since: 2026-08-12
     release: 1
     mergedPR: 67
-    openPR: 9
+    openPR: 8
     closedIssue: 13
     openIssue: 24
     commit: 74
@@ -49,7 +49,7 @@ recent:
     since: 2026-07-13
     release: 1
     mergedPR: 137
-    openPR: 10
+    openPR: 9
     closedIssue: 34
     openIssue: 36
     commit: 148
@@ -57,7 +57,7 @@ recent:
     since: 2026-06-13
     release: 2
     mergedPR: 207
-    openPR: 10
+    openPR: 9
     closedIssue: 60
     openIssue: 42
     commit: 219
@@ -65,7 +65,7 @@ recent:
     since: 2026-03-15
     release: 3
     mergedPR: 355
-    openPR: 11
+    openPR: 10
     closedIssue: 117
     openIssue: 60
     commit: 368
@@ -73,7 +73,7 @@ recent:
     since: 2025-09-16
     release: 8
     mergedPR: 682
-    openPR: 11
+    openPR: 10
     closedIssue: 303
     openIssue: 90
     commit: 685
@@ -81,20 +81,20 @@ recent:
     since: 2024-09-21
     release: 17
     mergedPR: 1257
-    openPR: 11
+    openPR: 10
     closedIssue: 656
     openIssue: 114
     commit: 1267
 total:
   release: 224
   mergedPR: 4475
-  openPR: 11
+  openPR: 10
   closedIssue: 3435
   openIssue: 156
   commit: 4737
 ---
 path: /home/runner/.x-repo/github.com/ddev/ddev
-collectedAt: 2026-09-11T00:06:43Z
+collectedAt: 2026-09-11T04:25:49Z
 loc:
   Go:
     code: 910995
