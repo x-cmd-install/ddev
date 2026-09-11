@@ -12,6 +12,18 @@ Docker-based local PHP+Node.js web development environments
 x install ddev
 ```
 
+## Code insight
+
+Total: **969,115** lines of code across **4841** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Go | 910,995 | 206,141 | 127,516 | 4421 |
+| AssemblyGAS | 16,706 | 1,523 | 3,319 | 65 |
+| Bitbake | 9,556 | 7,998 | 2,361 | 135 |
+| Sh | 9,438 | 2,227 | 1,666 | 126 |
+| Ini | 4,163 | 9,721 | 2,401 | 94 |
+
 ## Source
 
 - **Upstream**: <https://github.com/ddev/ddev>
@@ -23,6 +35,25 @@ x install ddev
 - **Latest**: `v1.25.4` (2026-09-02)
 - **Last commit**: 2026-09-09
 - **Assets in release**: 18
+
+## Popularity
+
+- **Stars**: 3,838 · **Forks**: 718 · **Open issues**: 3,591 · **Contributors**: 390
+
+## Totals (cumulative)
+
+- **Releases**: 224 · **Merged PRs**: 4475 · **Open PRs**: 11 · **Closed issues**: 3435 · **Open issues**: 156 · **Commits**: 4737
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-12 | 1 | 67 | 9 | 13 | 24 | 74 |
+| last60d | 2026-07-13 | 1 | 137 | 10 | 34 | 36 | 148 |
+| 90d | 2026-06-13 | 2 | 207 | 10 | 60 | 42 | 219 |
+| last180d | 2026-03-15 | 3 | 355 | 11 | 117 | 60 | 368 |
+| 360d | 2025-09-16 | 8 | 682 | 11 | 303 | 90 | 685 |
+| last720d | 2024-09-21 | 17 | 1257 | 11 | 656 | 114 | 1267 |
 
 ## Release assets
 
@@ -47,33 +78,13 @@ x install ddev
 | [ddev_windows_amd64_installer.v1.25.4.exe](https://github.com/ddev/ddev/releases/download/v1.25.4/ddev_windows_amd64_installer.v1.25.4.exe) | 36.4 MiB | `native/win/x64` |
 | [ddev_windows_arm64_installer.v1.25.4.exe](https://github.com/ddev/ddev/releases/download/v1.25.4/ddev_windows_arm64_installer.v1.25.4.exe) | 32.8 MiB | `native/win/arm64` |
 
-## Popularity
+## Distribution status
 
-- **Stars**: 3,836 · **Forks**: 718 · **Open issues**: 3,591 · **Contributors**: 390
+Reported by **10** distros on [repology.org](https://repology.org/project/ddev). **3** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
 
-## Totals (cumulative)
-
-- **Releases**: 224 · **Merged PRs**: 4475 · **Open PRs**: 9 · **Closed issues**: 3435 · **Open issues**: 156 · **Commits**: 4737
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 1 | 69 | 7 | 14 | 27 | 74 |
-| 90d | 2026-06-12 | 2 | 208 | 8 | 60 | 43 | 219 |
-| 360d | 2025-09-15 | 8 | 684 | 9 | 305 | 90 | 685 |
-
-## Code size
-
-Total: **969,115** lines of code across **4841** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Go | 910,995 | 206,141 | 127,516 | 4421 |
-| AssemblyGAS | 16,706 | 1,523 | 3,319 | 65 |
-| Bitbake | 9,556 | 7,998 | 2,361 | 135 |
-| Sh | 9,438 | 2,227 | 1,666 | 126 |
-| Ini | 4,163 | 9,721 | 2,401 | 94 |
+| Distro | Version | Status |
+|--------|---------|--------|
+| Nix unstable | `1.25.3` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -84,4 +95,4 @@ Install metadata for ddev lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T15:50:43Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:06:53Z._
