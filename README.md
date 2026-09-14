@@ -14,14 +14,14 @@ x install ddev
 
 ## Code insight
 
-Total: **969,292** lines of code across **4842** files in the top 5 languages.
+Total: **948,250** lines of code across **4677** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 911,119 | 206,171 | 127,521 | 4422 |
-| AssemblyGAS | 16,706 | 1,523 | 3,319 | 65 |
+| Go | 891,154 | 203,606 | 124,884 | 4257 |
+| AssemblyGAS | 15,719 | 1,535 | 3,313 | 65 |
 | Bitbake | 9,556 | 7,998 | 2,361 | 135 |
-| Sh | 9,438 | 2,227 | 1,666 | 126 |
+| Sh | 9,431 | 2,227 | 1,666 | 126 |
 | Ini | 4,163 | 9,721 | 2,401 | 94 |
 
 ## Source
@@ -33,27 +33,27 @@ Total: **969,292** lines of code across **4842** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.25.4` (2026-09-02)
-- **Last commit**: 2026-09-12
+- **Last commit**: 2026-09-13
 - **Assets in release**: 18
 
 ## Popularity
 
-- **Stars**: 3,839 · **Forks**: 719 · **Open issues**: 3,592 · **Contributors**: 390
+- **Stars**: 3,841 · **Forks**: 719 · **Open issues**: 3,592 · **Contributors**: 390
 
 ## Totals (cumulative)
 
-- **Releases**: 224 · **Merged PRs**: 4481 · **Open PRs**: 7 · **Closed issues**: 3437 · **Open issues**: 155 · **Commits**: 4743
+- **Releases**: 224 · **Merged PRs**: 4482 · **Open PRs**: 7 · **Closed issues**: 3438 · **Open issues**: 154 · **Commits**: 4744
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 1 | 65 | 5 | 13 | 23 | 64 |
-| last60d | 2026-07-15 | 1 | 140 | 6 | 32 | 36 | 143 |
-| 90d | 2026-06-15 | 2 | 210 | 6 | 61 | 42 | 206 |
-| last180d | 2026-03-17 | 3 | 356 | 7 | 117 | 59 | 368 |
-| 360d | 2025-09-18 | 7 | 684 | 7 | 302 | 89 | 684 |
-| last720d | 2024-09-23 | 17 | 1259 | 7 | 657 | 113 | 1273 |
+| 30d | 2026-08-15 | 1 | 65 | 5 | 14 | 22 | 65 |
+| last60d | 2026-07-16 | 1 | 137 | 6 | 32 | 35 | 144 |
+| 90d | 2026-06-16 | 2 | 207 | 6 | 60 | 41 | 207 |
+| last180d | 2026-03-18 | 3 | 357 | 7 | 117 | 58 | 369 |
+| 360d | 2025-09-19 | 7 | 683 | 7 | 300 | 88 | 685 |
+| last720d | 2024-09-24 | 17 | 1260 | 7 | 658 | 112 | 1269 |
 
 ## Release assets
 
@@ -78,14 +78,6 @@ Total: **969,292** lines of code across **4842** files in the top 5 languages.
 | [ddev_windows_amd64_installer.v1.25.4.exe](https://github.com/ddev/ddev/releases/download/v1.25.4/ddev_windows_amd64_installer.v1.25.4.exe) | 36.4 MiB | `native/win/x64` |
 | [ddev_windows_arm64_installer.v1.25.4.exe](https://github.com/ddev/ddev/releases/download/v1.25.4/ddev_windows_arm64_installer.v1.25.4.exe) | 32.8 MiB | `native/win/arm64` |
 
-## Distribution status
-
-Reported by **10** distros on [repology.org](https://repology.org/project/ddev). **3** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Nix unstable | `1.25.3` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for ddev lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `ddev` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -95,4 +87,4 @@ Install metadata for ddev lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T04:38:44Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T04:44:50Z._
