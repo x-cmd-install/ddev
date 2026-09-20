@@ -4,7 +4,7 @@
 
 Docker-based local PHP+Node.js web development environments
 
-![ddev](https://repo.x-cmd.io/ddev.svg)
+[![x-cmd/install — ddev Code Quality Monitoring Repo Card](https://repo.x-cmd.io/ddev.svg)](https://x-cmd.com/install/ddev)
 
 ## Install
 
@@ -38,22 +38,22 @@ Total: **948,293** lines of code across **4677** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 3,888 · **Forks**: 719 · **Open issues**: 3,601 · **Contributors**: 390
+- **Stars**: 3,892 · **Forks**: 719 · **Open issues**: 3,602 · **Contributors**: 390
 
 ## Totals (cumulative)
 
-- **Releases**: 224 · **Merged PRs**: 4487 · **Open PRs**: 12 · **Closed issues**: 3439 · **Open issues**: 162 · **Commits**: 4749
+- **Releases**: 224 · **Merged PRs**: 4487 · **Open PRs**: 13 · **Closed issues**: 3439 · **Open issues**: 163 · **Commits**: 4749
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 62 | 10 | 15 | 28 | 70 |
-| last60d | 2026-07-20 | 1 | 136 | 11 | 30 | 39 | 149 |
-| 90d | 2026-06-20 | 2 | 203 | 11 | 57 | 49 | 212 |
-| last180d | 2026-03-22 | 3 | 355 | 12 | 114 | 66 | 374 |
-| 360d | 2025-09-23 | 7 | 682 | 12 | 298 | 96 | 690 |
-| last720d | 2024-09-28 | 17 | 1259 | 12 | 655 | 120 | 1273 |
+| 30d | 2026-08-21 | 1 | 59 | 11 | 15 | 29 | 46 |
+| last60d | 2026-07-22 | 1 | 133 | 12 | 28 | 40 | 141 |
+| 90d | 2026-06-22 | 2 | 199 | 12 | 54 | 49 | 186 |
+| last180d | 2026-03-24 | 3 | 354 | 13 | 114 | 67 | 363 |
+| 360d | 2025-09-25 | 7 | 676 | 13 | 293 | 97 | 675 |
+| last720d | 2024-09-30 | 17 | 1258 | 13 | 653 | 121 | 1273 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for ddev lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:29:56Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T04:45:58Z._
