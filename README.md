@@ -48,12 +48,12 @@ Total: **948,890** lines of code across **4680** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-27 | 1 | 53 | 11 | 15 | 21 | 58 |
-| last60d | 2026-07-28 | 1 | 139 | 12 | 33 | 40 | 153 |
-| 90d | 2026-06-28 | 2 | 193 | 12 | 55 | 50 | 198 |
-| last180d | 2026-03-30 | 3 | 357 | 13 | 117 | 68 | 375 |
-| 360d | 2025-10-01 | 7 | 682 | 13 | 289 | 98 | 687 |
-| last720d | 2024-10-06 | 17 | 1264 | 13 | 656 | 122 | 1276 |
+| 30d | 2026-08-28 | 1 | 47 | 11 | 12 | 21 | 58 |
+| last60d | 2026-07-29 | 1 | 134 | 12 | 33 | 40 | 153 |
+| 90d | 2026-06-29 | 2 | 189 | 12 | 55 | 50 | 198 |
+| last180d | 2026-03-31 | 3 | 356 | 13 | 117 | 68 | 375 |
+| 360d | 2025-10-02 | 7 | 679 | 13 | 288 | 98 | 687 |
+| last720d | 2024-10-07 | 17 | 1262 | 13 | 654 | 122 | 1274 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for ddev lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260926.yml` · 2026-09-26T04:46:50Z._
+_Snapshot: `data/card/260927.yml` · 2026-09-27T05:09:31Z._
