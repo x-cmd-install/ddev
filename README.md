@@ -14,13 +14,13 @@ x install ddev
 
 ## Code insight
 
-Total: **955,089** lines of code across **4718** files in the top 5 languages.
+Total: **956,873** lines of code across **4723** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 895,718 | 204,177 | 125,404 | 4282 |
+| Go | 897,413 | 204,333 | 125,317 | 4287 |
 | AssemblyGAS | 15,719 | 1,535 | 3,313 | 65 |
-| Sh | 10,328 | 2,469 | 1,809 | 133 |
+| Sh | 10,356 | 2,474 | 1,810 | 133 |
 | Bitbake | 10,269 | 8,029 | 2,401 | 138 |
 | Ini | 4,462 | 12,617 | 3,079 | 100 |
 
@@ -33,27 +33,27 @@ Total: **955,089** lines of code across **4718** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.25.4` (2026-09-02)
-- **Last commit**: 2026-10-13
+- **Last commit**: 2026-10-15
 - **Assets in release**: 18
 
 ## Popularity
 
-- **Stars**: 3,915 · **Forks**: 716 · **Open issues**: 3,633 · **Contributors**: 394
+- **Stars**: 3,921 · **Forks**: 717 · **Open issues**: 3,634 · **Contributors**: 394
 
 ## Totals (cumulative)
 
-- **Releases**: 224 · **Merged PRs**: 4553 · **Open PRs**: 9 · **Closed issues**: 3471 · **Open issues**: 162 · **Commits**: 4814
+- **Releases**: 224 · **Merged PRs**: 4562 · **Open PRs**: 7 · **Closed issues**: 3479 · **Open issues**: 155 · **Commits**: 4823
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 0 | 60 | 7 | 19 | 21 | 65 |
-| last60d | 2026-08-15 | 1 | 135 | 8 | 39 | 38 | 135 |
-| 90d | 2026-07-16 | 1 | 207 | 9 | 60 | 48 | 218 |
-| last180d | 2026-04-17 | 3 | 367 | 9 | 127 | 65 | 367 |
-| 360d | 2025-10-19 | 7 | 713 | 9 | 299 | 97 | 710 |
-| last720d | 2024-10-24 | 16 | 1283 | 9 | 655 | 122 | 1301 |
+| 30d | 2026-09-15 | 0 | 69 | 5 | 22 | 17 | 74 |
+| last60d | 2026-08-16 | 1 | 142 | 6 | 44 | 34 | 144 |
+| 90d | 2026-07-17 | 1 | 215 | 7 | 64 | 42 | 227 |
+| last180d | 2026-04-18 | 3 | 375 | 7 | 132 | 61 | 376 |
+| 360d | 2025-10-20 | 7 | 719 | 7 | 305 | 88 | 719 |
+| last720d | 2024-10-25 | 16 | 1290 | 7 | 663 | 114 | 1309 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for ddev lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261014.yml` · 2026-10-14T04:41:59Z._
+_Snapshot: `data/card/261015.yml` · 2026-10-15T04:24:37Z._
