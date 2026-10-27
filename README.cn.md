@@ -14,11 +14,11 @@ x install ddev
 
 ## 代码洞察
 
-合计: **968,956** 行代码（覆盖前 5 种语言、共 **4690** 个文件）。
+合计: **968,958** 行代码（覆盖前 5 种语言、共 **4690** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 904,620 | 207,574 | 126,042 | 4331 |
+| Go | 904,623 | 207,572 | 126,037 | 4331 |
 | AssemblyGAS | 19,735 | 1,843 | 3,680 | 67 |
 | Sh | 10,371 | 2,482 | 1,812 | 133 |
 | Bitbake | 10,310 | 8,069 | 2,414 | 138 |
@@ -32,59 +32,59 @@ x install ddev
 
 ## 发布
 
-- **最新版本**: `v1.25.4` (2026-09-02)
-- **最近提交**: 2026-10-25
+- **最新版本**: `v1.25.5` (2026-10-26)
+- **最近提交**: 2026-10-26
 - **Release 含资产**: 18 个
 
 ## 流行度
 
-- **Star**: 3,928 · **Fork**: 718 · **开放 issue**: 3,652 · **贡献者**: 395
+- **Star**: 3,929 · **Fork**: 718 · **开放 issue**: 3,653 · **贡献者**: 395
 
 ## 累计统计
 
-- **发布数**: 224 · **已合并 PR**: 4604 · **开放 PR**: 11 · **已关闭 issue**: 3486 · **开放 issue**: 166 · **提交数**: 4865
+- **发布数**: 225 · **已合并 PR**: 4606 · **开放 PR**: 9 · **已关闭 issue**: 3488 · **开放 issue**: 165 · **提交数**: 4867
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 0 | 94 | 9 | 17 | 25 | 85 |
-| last60d | 2026-08-27 | 1 | 156 | 10 | 41 | 37 | 143 |
-| 90d | 2026-07-28 | 1 | 242 | 11 | 62 | 53 | 234 |
-| last180d | 2026-04-29 | 2 | 398 | 11 | 130 | 69 | 398 |
-| 360d | 2025-10-31 | 7 | 730 | 11 | 300 | 97 | 718 |
-| last720d | 2024-11-05 | 16 | 1318 | 11 | 651 | 125 | 1333 |
+| 30d | 2026-09-27 | 1 | 96 | 7 | 19 | 24 | 87 |
+| last60d | 2026-08-28 | 2 | 152 | 8 | 40 | 36 | 145 |
+| 90d | 2026-07-29 | 2 | 239 | 9 | 64 | 52 | 236 |
+| last180d | 2026-04-30 | 3 | 396 | 9 | 131 | 68 | 400 |
+| 360d | 2025-11-01 | 8 | 728 | 9 | 301 | 96 | 720 |
+| last720d | 2024-11-06 | 17 | 1318 | 9 | 651 | 124 | 1334 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [checksums.txt](https://github.com/ddev/ddev/releases/download/v1.25.4/checksums.txt) | 1.6 KiB | `other` |
-| [ddev-wsl2_1.25.4_linux_amd64.deb](https://github.com/ddev/ddev/releases/download/v1.25.4/ddev-wsl2_1.25.4_linux_amd64.deb) | 4.4 MiB | `native/linux/x64` |
-| [ddev-wsl2_1.25.4_linux_amd64.rpm](https://github.com/ddev/ddev/releases/download/v1.25.4/ddev-wsl2_1.25.4_linux_amd64.rpm) | 4.4 MiB | `native/linux/x64` |
-| [ddev-wsl2_1.25.4_linux_arm64.deb](https://github.com/ddev/ddev/releases/download/v1.25.4/ddev-wsl2_1.25.4_linux_arm64.deb) | 4.1 MiB | `native/linux/arm64` |
-| [ddev-wsl2_1.25.4_linux_arm64.rpm](https://github.com/ddev/ddev/releases/download/v1.25.4/ddev-wsl2_1.25.4_linux_arm64.rpm) | 4.1 MiB | `native/linux/arm64` |
-| [ddev_1.25.4_linux_amd64.deb](https://github.com/ddev/ddev/releases/download/v1.25.4/ddev_1.25.4_linux_amd64.deb) | 18.0 MiB | `native/linux/x64` |
-| [ddev_1.25.4_linux_amd64.rpm](https://github.com/ddev/ddev/releases/download/v1.25.4/ddev_1.25.4_linux_amd64.rpm) | 18.0 MiB | `native/linux/x64` |
-| [ddev_1.25.4_linux_arm64.deb](https://github.com/ddev/ddev/releases/download/v1.25.4/ddev_1.25.4_linux_arm64.deb) | 16.4 MiB | `native/linux/arm64` |
-| [ddev_1.25.4_linux_arm64.rpm](https://github.com/ddev/ddev/releases/download/v1.25.4/ddev_1.25.4_linux_arm64.rpm) | 16.4 MiB | `native/linux/arm64` |
-| [ddev_linux-amd64.v1.25.4.tar.gz](https://github.com/ddev/ddev/releases/download/v1.25.4/ddev_linux-amd64.v1.25.4.tar.gz) | 18.0 MiB | `native/linux/x64` |
-| [ddev_linux-arm64.v1.25.4.tar.gz](https://github.com/ddev/ddev/releases/download/v1.25.4/ddev_linux-arm64.v1.25.4.tar.gz) | 16.4 MiB | `native/linux/arm64` |
-| [ddev_macos-amd64.v1.25.4.tar.gz](https://github.com/ddev/ddev/releases/download/v1.25.4/ddev_macos-amd64.v1.25.4.tar.gz) | 19.0 MiB | `native/darwin/x64` |
-| [ddev_macos-arm64.v1.25.4.tar.gz](https://github.com/ddev/ddev/releases/download/v1.25.4/ddev_macos-arm64.v1.25.4.tar.gz) | 17.2 MiB | `native/darwin/arm64` |
-| [ddev_shell_completion_scripts.v1.25.4.tar.gz](https://github.com/ddev/ddev/releases/download/v1.25.4/ddev_shell_completion_scripts.v1.25.4.tar.gz) | 20.0 KiB | `native/unknown` |
-| [ddev_windows-amd64.v1.25.4.zip](https://github.com/ddev/ddev/releases/download/v1.25.4/ddev_windows-amd64.v1.25.4.zip) | 18.6 MiB | `native/win/x64` |
-| [ddev_windows-arm64.v1.25.4.zip](https://github.com/ddev/ddev/releases/download/v1.25.4/ddev_windows-arm64.v1.25.4.zip) | 16.7 MiB | `native/win/arm64` |
-| [ddev_windows_amd64_installer.v1.25.4.exe](https://github.com/ddev/ddev/releases/download/v1.25.4/ddev_windows_amd64_installer.v1.25.4.exe) | 36.4 MiB | `native/win/x64` |
-| [ddev_windows_arm64_installer.v1.25.4.exe](https://github.com/ddev/ddev/releases/download/v1.25.4/ddev_windows_arm64_installer.v1.25.4.exe) | 32.8 MiB | `native/win/arm64` |
+| [checksums.txt](https://github.com/ddev/ddev/releases/download/v1.25.5/checksums.txt) | 1.6 KiB | `other` |
+| [ddev-wsl2_1.25.5_linux_amd64.deb](https://github.com/ddev/ddev/releases/download/v1.25.5/ddev-wsl2_1.25.5_linux_amd64.deb) | 4.4 MiB | `native/linux/x64` |
+| [ddev-wsl2_1.25.5_linux_amd64.rpm](https://github.com/ddev/ddev/releases/download/v1.25.5/ddev-wsl2_1.25.5_linux_amd64.rpm) | 4.4 MiB | `native/linux/x64` |
+| [ddev-wsl2_1.25.5_linux_arm64.deb](https://github.com/ddev/ddev/releases/download/v1.25.5/ddev-wsl2_1.25.5_linux_arm64.deb) | 4.1 MiB | `native/linux/arm64` |
+| [ddev-wsl2_1.25.5_linux_arm64.rpm](https://github.com/ddev/ddev/releases/download/v1.25.5/ddev-wsl2_1.25.5_linux_arm64.rpm) | 4.1 MiB | `native/linux/arm64` |
+| [ddev_1.25.5_linux_amd64.deb](https://github.com/ddev/ddev/releases/download/v1.25.5/ddev_1.25.5_linux_amd64.deb) | 18.3 MiB | `native/linux/x64` |
+| [ddev_1.25.5_linux_amd64.rpm](https://github.com/ddev/ddev/releases/download/v1.25.5/ddev_1.25.5_linux_amd64.rpm) | 18.8 MiB | `native/linux/x64` |
+| [ddev_1.25.5_linux_arm64.deb](https://github.com/ddev/ddev/releases/download/v1.25.5/ddev_1.25.5_linux_arm64.deb) | 16.7 MiB | `native/linux/arm64` |
+| [ddev_1.25.5_linux_arm64.rpm](https://github.com/ddev/ddev/releases/download/v1.25.5/ddev_1.25.5_linux_arm64.rpm) | 17.1 MiB | `native/linux/arm64` |
+| [ddev_linux-amd64.v1.25.5.tar.gz](https://github.com/ddev/ddev/releases/download/v1.25.5/ddev_linux-amd64.v1.25.5.tar.gz) | 18.3 MiB | `native/linux/x64` |
+| [ddev_linux-arm64.v1.25.5.tar.gz](https://github.com/ddev/ddev/releases/download/v1.25.5/ddev_linux-arm64.v1.25.5.tar.gz) | 16.7 MiB | `native/linux/arm64` |
+| [ddev_macos-amd64.v1.25.5.tar.gz](https://github.com/ddev/ddev/releases/download/v1.25.5/ddev_macos-amd64.v1.25.5.tar.gz) | 19.3 MiB | `native/darwin/x64` |
+| [ddev_macos-arm64.v1.25.5.tar.gz](https://github.com/ddev/ddev/releases/download/v1.25.5/ddev_macos-arm64.v1.25.5.tar.gz) | 17.4 MiB | `native/darwin/arm64` |
+| [ddev_shell_completion_scripts.v1.25.5.tar.gz](https://github.com/ddev/ddev/releases/download/v1.25.5/ddev_shell_completion_scripts.v1.25.5.tar.gz) | 20.1 KiB | `native/unknown` |
+| [ddev_windows-amd64.v1.25.5.zip](https://github.com/ddev/ddev/releases/download/v1.25.5/ddev_windows-amd64.v1.25.5.zip) | 18.9 MiB | `native/win/x64` |
+| [ddev_windows-arm64.v1.25.5.zip](https://github.com/ddev/ddev/releases/download/v1.25.5/ddev_windows-arm64.v1.25.5.zip) | 17.0 MiB | `native/win/arm64` |
+| [ddev_windows_amd64_installer.v1.25.5.exe](https://github.com/ddev/ddev/releases/download/v1.25.5/ddev_windows_amd64_installer.v1.25.5.exe) | 37.0 MiB | `native/win/x64` |
+| [ddev_windows_arm64_installer.v1.25.5.exe](https://github.com/ddev/ddev/releases/download/v1.25.5/ddev_windows_arm64_installer.v1.25.5.exe) | 33.4 MiB | `native/win/arm64` |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/ddev) 上共有 **10** 个发行版报告此项目。**4** 个 ✅ 已是最新上游版本，**6** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/ddev) 上共有 **10** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**8** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
-| Nix unstable | `1.25.4` | ✅ latest |
+| Nix unstable | `1.25.4` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -95,4 +95,4 @@ ddev 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261026.yml` · 2026-10-26T04:31:09Z._
+_数据快照: `data/card/261027.yml` · 2026-10-27T04:49:58Z._
