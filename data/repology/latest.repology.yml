@@ -1,31 +1,16 @@
-- repo: nix_stable_25_05
-  srcname: ddev
-  visiblename: ddev
-  version: 1.24.10
+- repo: chocolatey
+  binname: ddev
+  visiblename: ddev (Install)
+  version: 1.25.4
   origversion: null
   status: outdated
-  summary: Docker-based local PHP+Node.js web development environments
-  maintainers:
-    - remy@remysplace.de
-  licenses:
-    - Apache-2.0
-- repo: nix_stable_25_11
-  srcname: ddev
-  visiblename: ddev
-  version: 1.24.10
-  origversion: null
-  status: outdated
-  summary: Docker-based local PHP+Node.js web development environments
-  maintainers:
-    - remy@remysplace.de
-  licenses:
-    - Apache-2.0
+  summary: DDEV is a local web development tool optimized for PHP projects and CMSs.
 - repo: aur
   srcname: ddev-bin
   binname: ddev-bin
   visiblename: ddev-bin
-  version: 1.25.4
-  origversion: 1.25.4-1
+  version: 1.25.5
+  origversion: 1.25.5-1
   status: newest
   summary: 'DDEV: a local web development environment'
   maintainers:
@@ -34,13 +19,6 @@
     - stasadev@aur
   licenses:
     - Apache 2
-- repo: chocolatey
-  binname: ddev
-  visiblename: ddev (Install)
-  version: 1.25.4
-  origversion: null
-  status: newest
-  summary: DDEV is a local web development tool optimized for PHP projects and CMSs.
 - repo: macports
   srcname: devel/ddev
   binname: ddev
@@ -77,6 +55,28 @@
     - fallback-mnt-nix@repology
   licenses:
     - Apache-2.0
+- repo: nix_stable_25_05
+  srcname: ddev
+  visiblename: ddev
+  version: 1.24.10
+  origversion: null
+  status: outdated
+  summary: Docker-based local PHP+Node.js web development environments
+  maintainers:
+    - remy@remysplace.de
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_11
+  srcname: ddev
+  visiblename: ddev
+  version: 1.24.10
+  origversion: null
+  status: outdated
+  summary: Docker-based local PHP+Node.js web development environments
+  maintainers:
+    - remy@remysplace.de
+  licenses:
+    - Apache-2.0
 - repo: nix_stable_26_05
   srcname: ddev
   visiblename: ddev
@@ -93,7 +93,7 @@
   visiblename: ddev
   version: 1.25.4
   origversion: null
-  status: newest
+  status: outdated
   summary: Docker-based local PHP+Node.js web development environments
   maintainers:
     - remy@remysplace.de
@@ -103,7 +103,7 @@
   subrepo: main
   binname: ddev
   visiblename: ddev
-  version: 1.25.4
+  version: 1.25.5
   origversion: null
   status: newest
   licenses:
