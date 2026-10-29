@@ -1,10 +1,3 @@
-- repo: chocolatey
-  binname: ddev
-  visiblename: ddev (Install)
-  version: 1.25.4
-  origversion: null
-  status: outdated
-  summary: DDEV is a local web development tool optimized for PHP projects and CMSs.
 - repo: aur
   srcname: ddev-bin
   binname: ddev-bin
@@ -19,6 +12,13 @@
     - stasadev@aur
   licenses:
     - Apache 2
+- repo: chocolatey
+  binname: ddev
+  visiblename: ddev (Install)
+  version: 1.25.4
+  origversion: null
+  status: outdated
+  summary: DDEV is a local web development tool optimized for PHP projects and CMSs.
 - repo: macports
   srcname: devel/ddev
   binname: ddev
@@ -91,9 +91,9 @@
 - repo: nix_unstable
   srcname: ddev
   visiblename: ddev
-  version: 1.25.4
+  version: 1.25.5
   origversion: null
-  status: outdated
+  status: newest
   summary: Docker-based local PHP+Node.js web development environments
   maintainers:
     - remy@remysplace.de
