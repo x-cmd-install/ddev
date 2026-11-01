@@ -14,11 +14,11 @@ x install ddev
 
 ## Code insight
 
-Total: **969,451** lines of code across **4690** files in the top 5 languages.
+Total: **969,504** lines of code across **4690** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 905,084 | 207,619 | 126,072 | 4331 |
+| Go | 905,137 | 207,624 | 126,078 | 4331 |
 | AssemblyGAS | 19,735 | 1,843 | 3,680 | 67 |
 | Sh | 10,376 | 2,482 | 1,814 | 133 |
 | Bitbake | 10,310 | 8,069 | 2,414 | 138 |
@@ -38,22 +38,22 @@ Total: **969,451** lines of code across **4690** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 3,937 · **Forks**: 718 · **Open issues**: 3,656 · **Contributors**: 395
+- **Stars**: 3,940 · **Forks**: 718 · **Open issues**: 3,657 · **Contributors**: 395
 
 ## Totals (cumulative)
 
-- **Releases**: 225 · **Merged PRs**: 4618 · **Open PRs**: 7 · **Closed issues**: 3494 · **Open issues**: 162 · **Commits**: 4879
+- **Releases**: 225 · **Merged PRs**: 4619 · **Open PRs**: 7 · **Closed issues**: 3495 · **Open issues**: 162 · **Commits**: 4880
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 1 | 89 | 5 | 21 | 20 | 99 |
-| last60d | 2026-09-01 | 2 | 150 | 5 | 40 | 31 | 157 |
-| 90d | 2026-08-02 | 2 | 234 | 6 | 66 | 49 | 248 |
-| last180d | 2026-05-04 | 3 | 398 | 7 | 133 | 66 | 412 |
-| 360d | 2025-11-05 | 6 | 730 | 7 | 301 | 94 | 732 |
-| last720d | 2024-11-10 | 17 | 1323 | 7 | 652 | 122 | 1335 |
+| 30d | 2026-10-02 | 1 | 86 | 5 | 21 | 19 | 82 |
+| last60d | 2026-09-02 | 2 | 146 | 5 | 41 | 30 | 147 |
+| 90d | 2026-08-03 | 2 | 230 | 6 | 65 | 49 | 234 |
+| last180d | 2026-05-05 | 3 | 398 | 7 | 133 | 66 | 400 |
+| 360d | 2025-11-06 | 6 | 728 | 7 | 297 | 94 | 715 |
+| last720d | 2024-11-11 | 17 | 1321 | 7 | 653 | 122 | 1336 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for ddev lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T05:21:08Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T05:49:32Z._
