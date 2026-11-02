@@ -15,9 +15,9 @@
 - repo: chocolatey
   binname: ddev
   visiblename: ddev (Install)
-  version: 1.25.4
+  version: 1.25.5
   origversion: null
-  status: outdated
+  status: newest
   summary: DDEV is a local web development tool optimized for PHP projects and CMSs.
 - repo: macports
   srcname: devel/ddev
