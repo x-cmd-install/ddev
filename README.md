@@ -33,27 +33,27 @@ Total: **969,504** lines of code across **4690** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.25.5` (2026-10-26)
-- **Last commit**: 2026-10-31
+- **Last commit**: 2026-11-01
 - **Assets in release**: 18
 
 ## Popularity
 
-- **Stars**: 3,940 · **Forks**: 718 · **Open issues**: 3,657 · **Contributors**: 395
+- **Stars**: 3,942 · **Forks**: 718 · **Open issues**: 3,658 · **Contributors**: 395
 
 ## Totals (cumulative)
 
-- **Releases**: 225 · **Merged PRs**: 4619 · **Open PRs**: 7 · **Closed issues**: 3495 · **Open issues**: 162 · **Commits**: 4880
+- **Releases**: 225 · **Merged PRs**: 4620 · **Open PRs**: 17 · **Closed issues**: 3497 · **Open issues**: 161 · **Commits**: 4881
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 1 | 86 | 5 | 21 | 19 | 82 |
-| last60d | 2026-09-02 | 2 | 146 | 5 | 41 | 30 | 147 |
-| 90d | 2026-08-03 | 2 | 230 | 6 | 65 | 49 | 234 |
-| last180d | 2026-05-05 | 3 | 398 | 7 | 133 | 66 | 400 |
-| 360d | 2025-11-06 | 6 | 728 | 7 | 297 | 94 | 715 |
-| last720d | 2024-11-11 | 17 | 1321 | 7 | 653 | 122 | 1336 |
+| 30d | 2026-10-03 | 1 | 86 | 15 | 22 | 19 | 83 |
+| last60d | 2026-09-03 | 1 | 145 | 15 | 43 | 29 | 148 |
+| 90d | 2026-08-04 | 2 | 231 | 16 | 66 | 48 | 235 |
+| last180d | 2026-05-06 | 3 | 399 | 17 | 134 | 65 | 401 |
+| 360d | 2025-11-07 | 6 | 729 | 17 | 298 | 93 | 716 |
+| last720d | 2024-11-12 | 17 | 1318 | 17 | 654 | 121 | 1333 |
 
 ## Release assets
 
@@ -80,7 +80,7 @@ Total: **969,504** lines of code across **4690** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **10** distros on [repology.org](https://repology.org/project/ddev). **3** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
+Reported by **10** distros on [repology.org](https://repology.org/project/ddev). **4** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -95,4 +95,4 @@ Install metadata for ddev lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T05:49:32Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T05:49:06Z._
