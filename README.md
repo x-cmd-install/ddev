@@ -38,22 +38,22 @@ Total: **984,733** lines of code across **4767** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 3,957 · **Forks**: 721 · **Open issues**: 3,674 · **Contributors**: 394
+- **Stars**: 3,960 · **Forks**: 722 · **Open issues**: 3,675 · **Contributors**: 394
 
 ## Totals (cumulative)
 
-- **Releases**: 225 · **Merged PRs**: 4681 · **Open PRs**: 18 · **Closed issues**: 3506 · **Open issues**: 168 · **Commits**: 4942
+- **Releases**: 225 · **Merged PRs**: 4681 · **Open PRs**: 20 · **Closed issues**: 3506 · **Open issues**: 169 · **Commits**: 4942
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 1 | 107 | 15 | 18 | 19 | 83 |
-| last60d | 2026-09-17 | 1 | 185 | 16 | 40 | 33 | 185 |
-| 90d | 2026-08-18 | 2 | 256 | 17 | 67 | 50 | 257 |
-| last180d | 2026-05-20 | 3 | 441 | 18 | 135 | 71 | 441 |
-| 360d | 2025-11-21 | 6 | 738 | 18 | 286 | 98 | 740 |
-| last720d | 2024-11-26 | 17 | 1346 | 18 | 642 | 128 | 1362 |
+| 30d | 2026-10-18 | 1 | 100 | 17 | 18 | 18 | 83 |
+| last60d | 2026-09-18 | 1 | 185 | 18 | 39 | 34 | 185 |
+| 90d | 2026-08-19 | 2 | 255 | 19 | 67 | 50 | 257 |
+| last180d | 2026-05-21 | 3 | 440 | 20 | 135 | 72 | 441 |
+| 360d | 2025-11-22 | 6 | 738 | 20 | 285 | 99 | 740 |
+| last720d | 2024-11-27 | 17 | 1344 | 20 | 642 | 129 | 1361 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for ddev lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T06:10:07Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T07:55:44Z._
