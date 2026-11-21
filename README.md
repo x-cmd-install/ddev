@@ -14,15 +14,15 @@ x install ddev
 
 ## Code insight
 
-Total: **987,323** lines of code across **4778** files in the top 5 languages.
+Total: **993,729** lines of code across **4794** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 922,293 | 213,053 | 128,462 | 4421 |
-| AssemblyGAS | 19,735 | 1,843 | 3,680 | 67 |
-| Sh | 10,471 | 2,436 | 1,810 | 131 |
+| Go | 928,937 | 215,023 | 129,600 | 4436 |
+| AssemblyGAS | 19,591 | 1,852 | 3,692 | 67 |
+| Sh | 10,472 | 2,437 | 1,810 | 131 |
 | Bitbake | 10,361 | 8,140 | 2,426 | 138 |
-| Json | 4,766 | 0 | 8 | 21 |
+| Json | 4,817 | 0 | 8 | 22 |
 
 ## Source
 
@@ -32,59 +32,59 @@ Total: **987,323** lines of code across **4778** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.25.5` (2026-10-26)
-- **Last commit**: 2026-11-19
+- **Latest**: `v1.25.6` (2026-11-20)
+- **Last commit**: 2026-11-20
 - **Assets in release**: 18
 
 ## Popularity
 
-- **Stars**: 3,962 · **Forks**: 721 · **Open issues**: 3,678 · **Contributors**: 395
+- **Stars**: 3,962 · **Forks**: 721 · **Open issues**: 3,679 · **Contributors**: 395
 
 ## Totals (cumulative)
 
-- **Releases**: 225 · **Merged PRs**: 4699 · **Open PRs**: 19 · **Closed issues**: 3507 · **Open issues**: 171 · **Commits**: 4960
+- **Releases**: 226 · **Merged PRs**: 4707 · **Open PRs**: 17 · **Closed issues**: 3508 · **Open issues**: 171 · **Commits**: 4968
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 1 | 100 | 16 | 17 | 17 | 101 |
-| last60d | 2026-09-21 | 1 | 200 | 17 | 40 | 35 | 203 |
-| 90d | 2026-08-22 | 2 | 269 | 18 | 68 | 51 | 275 |
-| last180d | 2026-05-24 | 3 | 454 | 19 | 136 | 74 | 459 |
-| 360d | 2025-11-25 | 6 | 749 | 19 | 281 | 99 | 758 |
-| last720d | 2024-11-30 | 17 | 1354 | 19 | 641 | 131 | 1368 |
+| 30d | 2026-10-22 | 2 | 106 | 14 | 13 | 16 | 109 |
+| last60d | 2026-09-22 | 2 | 204 | 15 | 38 | 35 | 211 |
+| 90d | 2026-08-23 | 3 | 277 | 16 | 69 | 51 | 283 |
+| last180d | 2026-05-25 | 4 | 462 | 17 | 137 | 74 | 467 |
+| 360d | 2025-11-26 | 7 | 756 | 17 | 282 | 99 | 766 |
+| last720d | 2024-12-01 | 18 | 1361 | 17 | 641 | 131 | 1374 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums.txt](https://github.com/ddev/ddev/releases/download/v1.25.5/checksums.txt) | 1.6 KiB | `other` |
-| [ddev-wsl2_1.25.5_linux_amd64.deb](https://github.com/ddev/ddev/releases/download/v1.25.5/ddev-wsl2_1.25.5_linux_amd64.deb) | 4.4 MiB | `native/linux/x64` |
-| [ddev-wsl2_1.25.5_linux_amd64.rpm](https://github.com/ddev/ddev/releases/download/v1.25.5/ddev-wsl2_1.25.5_linux_amd64.rpm) | 4.4 MiB | `native/linux/x64` |
-| [ddev-wsl2_1.25.5_linux_arm64.deb](https://github.com/ddev/ddev/releases/download/v1.25.5/ddev-wsl2_1.25.5_linux_arm64.deb) | 4.1 MiB | `native/linux/arm64` |
-| [ddev-wsl2_1.25.5_linux_arm64.rpm](https://github.com/ddev/ddev/releases/download/v1.25.5/ddev-wsl2_1.25.5_linux_arm64.rpm) | 4.1 MiB | `native/linux/arm64` |
-| [ddev_1.25.5_linux_amd64.deb](https://github.com/ddev/ddev/releases/download/v1.25.5/ddev_1.25.5_linux_amd64.deb) | 18.3 MiB | `native/linux/x64` |
-| [ddev_1.25.5_linux_amd64.rpm](https://github.com/ddev/ddev/releases/download/v1.25.5/ddev_1.25.5_linux_amd64.rpm) | 18.8 MiB | `native/linux/x64` |
-| [ddev_1.25.5_linux_arm64.deb](https://github.com/ddev/ddev/releases/download/v1.25.5/ddev_1.25.5_linux_arm64.deb) | 16.7 MiB | `native/linux/arm64` |
-| [ddev_1.25.5_linux_arm64.rpm](https://github.com/ddev/ddev/releases/download/v1.25.5/ddev_1.25.5_linux_arm64.rpm) | 17.1 MiB | `native/linux/arm64` |
-| [ddev_linux-amd64.v1.25.5.tar.gz](https://github.com/ddev/ddev/releases/download/v1.25.5/ddev_linux-amd64.v1.25.5.tar.gz) | 18.3 MiB | `native/linux/x64` |
-| [ddev_linux-arm64.v1.25.5.tar.gz](https://github.com/ddev/ddev/releases/download/v1.25.5/ddev_linux-arm64.v1.25.5.tar.gz) | 16.7 MiB | `native/linux/arm64` |
-| [ddev_macos-amd64.v1.25.5.tar.gz](https://github.com/ddev/ddev/releases/download/v1.25.5/ddev_macos-amd64.v1.25.5.tar.gz) | 19.3 MiB | `native/darwin/x64` |
-| [ddev_macos-arm64.v1.25.5.tar.gz](https://github.com/ddev/ddev/releases/download/v1.25.5/ddev_macos-arm64.v1.25.5.tar.gz) | 17.4 MiB | `native/darwin/arm64` |
-| [ddev_shell_completion_scripts.v1.25.5.tar.gz](https://github.com/ddev/ddev/releases/download/v1.25.5/ddev_shell_completion_scripts.v1.25.5.tar.gz) | 20.1 KiB | `native/unknown` |
-| [ddev_windows-amd64.v1.25.5.zip](https://github.com/ddev/ddev/releases/download/v1.25.5/ddev_windows-amd64.v1.25.5.zip) | 18.9 MiB | `native/win/x64` |
-| [ddev_windows-arm64.v1.25.5.zip](https://github.com/ddev/ddev/releases/download/v1.25.5/ddev_windows-arm64.v1.25.5.zip) | 17.0 MiB | `native/win/arm64` |
-| [ddev_windows_amd64_installer.v1.25.5.exe](https://github.com/ddev/ddev/releases/download/v1.25.5/ddev_windows_amd64_installer.v1.25.5.exe) | 37.0 MiB | `native/win/x64` |
-| [ddev_windows_arm64_installer.v1.25.5.exe](https://github.com/ddev/ddev/releases/download/v1.25.5/ddev_windows_arm64_installer.v1.25.5.exe) | 33.4 MiB | `native/win/arm64` |
+| [checksums.txt](https://github.com/ddev/ddev/releases/download/v1.25.6/checksums.txt) | 1.6 KiB | `other` |
+| [ddev-wsl2_1.25.6_linux_amd64.deb](https://github.com/ddev/ddev/releases/download/v1.25.6/ddev-wsl2_1.25.6_linux_amd64.deb) | 4.4 MiB | `native/linux/x64` |
+| [ddev-wsl2_1.25.6_linux_amd64.rpm](https://github.com/ddev/ddev/releases/download/v1.25.6/ddev-wsl2_1.25.6_linux_amd64.rpm) | 4.4 MiB | `native/linux/x64` |
+| [ddev-wsl2_1.25.6_linux_arm64.deb](https://github.com/ddev/ddev/releases/download/v1.25.6/ddev-wsl2_1.25.6_linux_arm64.deb) | 4.1 MiB | `native/linux/arm64` |
+| [ddev-wsl2_1.25.6_linux_arm64.rpm](https://github.com/ddev/ddev/releases/download/v1.25.6/ddev-wsl2_1.25.6_linux_arm64.rpm) | 4.1 MiB | `native/linux/arm64` |
+| [ddev_1.25.6_linux_amd64.deb](https://github.com/ddev/ddev/releases/download/v1.25.6/ddev_1.25.6_linux_amd64.deb) | 18.8 MiB | `native/linux/x64` |
+| [ddev_1.25.6_linux_amd64.rpm](https://github.com/ddev/ddev/releases/download/v1.25.6/ddev_1.25.6_linux_amd64.rpm) | 19.3 MiB | `native/linux/x64` |
+| [ddev_1.25.6_linux_arm64.deb](https://github.com/ddev/ddev/releases/download/v1.25.6/ddev_1.25.6_linux_arm64.deb) | 17.1 MiB | `native/linux/arm64` |
+| [ddev_1.25.6_linux_arm64.rpm](https://github.com/ddev/ddev/releases/download/v1.25.6/ddev_1.25.6_linux_arm64.rpm) | 17.5 MiB | `native/linux/arm64` |
+| [ddev_linux-amd64.v1.25.6.tar.gz](https://github.com/ddev/ddev/releases/download/v1.25.6/ddev_linux-amd64.v1.25.6.tar.gz) | 18.8 MiB | `native/linux/x64` |
+| [ddev_linux-arm64.v1.25.6.tar.gz](https://github.com/ddev/ddev/releases/download/v1.25.6/ddev_linux-arm64.v1.25.6.tar.gz) | 17.1 MiB | `native/linux/arm64` |
+| [ddev_macos-amd64.v1.25.6.tar.gz](https://github.com/ddev/ddev/releases/download/v1.25.6/ddev_macos-amd64.v1.25.6.tar.gz) | 19.8 MiB | `native/darwin/x64` |
+| [ddev_macos-arm64.v1.25.6.tar.gz](https://github.com/ddev/ddev/releases/download/v1.25.6/ddev_macos-arm64.v1.25.6.tar.gz) | 17.9 MiB | `native/darwin/arm64` |
+| [ddev_shell_completion_scripts.v1.25.6.tar.gz](https://github.com/ddev/ddev/releases/download/v1.25.6/ddev_shell_completion_scripts.v1.25.6.tar.gz) | 20.8 KiB | `native/unknown` |
+| [ddev_windows-amd64.v1.25.6.zip](https://github.com/ddev/ddev/releases/download/v1.25.6/ddev_windows-amd64.v1.25.6.zip) | 19.4 MiB | `native/win/x64` |
+| [ddev_windows-arm64.v1.25.6.zip](https://github.com/ddev/ddev/releases/download/v1.25.6/ddev_windows-arm64.v1.25.6.zip) | 17.4 MiB | `native/win/arm64` |
+| [ddev_windows_amd64_installer.v1.25.6.exe](https://github.com/ddev/ddev/releases/download/v1.25.6/ddev_windows_amd64_installer.v1.25.6.exe) | 37.9 MiB | `native/win/x64` |
+| [ddev_windows_arm64_installer.v1.25.6.exe](https://github.com/ddev/ddev/releases/download/v1.25.6/ddev_windows_arm64_installer.v1.25.6.exe) | 34.3 MiB | `native/win/arm64` |
 
 ## Distribution status
 
-Reported by **10** distros on [repology.org](https://repology.org/project/ddev). **4** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
+Reported by **10** distros on [repology.org](https://repology.org/project/ddev). **2** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Nix unstable | `1.25.5` | ✅ latest |
+| Nix unstable | `1.25.5` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -95,4 +95,4 @@ Install metadata for ddev lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T07:20:11Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T07:01:27Z._

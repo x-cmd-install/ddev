@@ -14,15 +14,15 @@ x install ddev
 
 ## 代码洞察
 
-合计: **987,323** 行代码（覆盖前 5 种语言、共 **4778** 个文件）。
+合计: **993,729** 行代码（覆盖前 5 种语言、共 **4794** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 922,293 | 213,053 | 128,462 | 4421 |
-| AssemblyGAS | 19,735 | 1,843 | 3,680 | 67 |
-| Sh | 10,471 | 2,436 | 1,810 | 131 |
+| Go | 928,937 | 215,023 | 129,600 | 4436 |
+| AssemblyGAS | 19,591 | 1,852 | 3,692 | 67 |
+| Sh | 10,472 | 2,437 | 1,810 | 131 |
 | Bitbake | 10,361 | 8,140 | 2,426 | 138 |
-| Json | 4,766 | 0 | 8 | 21 |
+| Json | 4,817 | 0 | 8 | 22 |
 
 ## 源代码
 
@@ -32,59 +32,59 @@ x install ddev
 
 ## 发布
 
-- **最新版本**: `v1.25.5` (2026-10-26)
-- **最近提交**: 2026-11-19
+- **最新版本**: `v1.25.6` (2026-11-20)
+- **最近提交**: 2026-11-20
 - **Release 含资产**: 18 个
 
 ## 流行度
 
-- **Star**: 3,962 · **Fork**: 721 · **开放 issue**: 3,678 · **贡献者**: 395
+- **Star**: 3,962 · **Fork**: 721 · **开放 issue**: 3,679 · **贡献者**: 395
 
 ## 累计统计
 
-- **发布数**: 225 · **已合并 PR**: 4699 · **开放 PR**: 19 · **已关闭 issue**: 3507 · **开放 issue**: 171 · **提交数**: 4960
+- **发布数**: 226 · **已合并 PR**: 4707 · **开放 PR**: 17 · **已关闭 issue**: 3508 · **开放 issue**: 171 · **提交数**: 4968
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 1 | 100 | 16 | 17 | 17 | 101 |
-| last60d | 2026-09-21 | 1 | 200 | 17 | 40 | 35 | 203 |
-| 90d | 2026-08-22 | 2 | 269 | 18 | 68 | 51 | 275 |
-| last180d | 2026-05-24 | 3 | 454 | 19 | 136 | 74 | 459 |
-| 360d | 2025-11-25 | 6 | 749 | 19 | 281 | 99 | 758 |
-| last720d | 2024-11-30 | 17 | 1354 | 19 | 641 | 131 | 1368 |
+| 30d | 2026-10-22 | 2 | 106 | 14 | 13 | 16 | 109 |
+| last60d | 2026-09-22 | 2 | 204 | 15 | 38 | 35 | 211 |
+| 90d | 2026-08-23 | 3 | 277 | 16 | 69 | 51 | 283 |
+| last180d | 2026-05-25 | 4 | 462 | 17 | 137 | 74 | 467 |
+| 360d | 2025-11-26 | 7 | 756 | 17 | 282 | 99 | 766 |
+| last720d | 2024-12-01 | 18 | 1361 | 17 | 641 | 131 | 1374 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [checksums.txt](https://github.com/ddev/ddev/releases/download/v1.25.5/checksums.txt) | 1.6 KiB | `other` |
-| [ddev-wsl2_1.25.5_linux_amd64.deb](https://github.com/ddev/ddev/releases/download/v1.25.5/ddev-wsl2_1.25.5_linux_amd64.deb) | 4.4 MiB | `native/linux/x64` |
-| [ddev-wsl2_1.25.5_linux_amd64.rpm](https://github.com/ddev/ddev/releases/download/v1.25.5/ddev-wsl2_1.25.5_linux_amd64.rpm) | 4.4 MiB | `native/linux/x64` |
-| [ddev-wsl2_1.25.5_linux_arm64.deb](https://github.com/ddev/ddev/releases/download/v1.25.5/ddev-wsl2_1.25.5_linux_arm64.deb) | 4.1 MiB | `native/linux/arm64` |
-| [ddev-wsl2_1.25.5_linux_arm64.rpm](https://github.com/ddev/ddev/releases/download/v1.25.5/ddev-wsl2_1.25.5_linux_arm64.rpm) | 4.1 MiB | `native/linux/arm64` |
-| [ddev_1.25.5_linux_amd64.deb](https://github.com/ddev/ddev/releases/download/v1.25.5/ddev_1.25.5_linux_amd64.deb) | 18.3 MiB | `native/linux/x64` |
-| [ddev_1.25.5_linux_amd64.rpm](https://github.com/ddev/ddev/releases/download/v1.25.5/ddev_1.25.5_linux_amd64.rpm) | 18.8 MiB | `native/linux/x64` |
-| [ddev_1.25.5_linux_arm64.deb](https://github.com/ddev/ddev/releases/download/v1.25.5/ddev_1.25.5_linux_arm64.deb) | 16.7 MiB | `native/linux/arm64` |
-| [ddev_1.25.5_linux_arm64.rpm](https://github.com/ddev/ddev/releases/download/v1.25.5/ddev_1.25.5_linux_arm64.rpm) | 17.1 MiB | `native/linux/arm64` |
-| [ddev_linux-amd64.v1.25.5.tar.gz](https://github.com/ddev/ddev/releases/download/v1.25.5/ddev_linux-amd64.v1.25.5.tar.gz) | 18.3 MiB | `native/linux/x64` |
-| [ddev_linux-arm64.v1.25.5.tar.gz](https://github.com/ddev/ddev/releases/download/v1.25.5/ddev_linux-arm64.v1.25.5.tar.gz) | 16.7 MiB | `native/linux/arm64` |
-| [ddev_macos-amd64.v1.25.5.tar.gz](https://github.com/ddev/ddev/releases/download/v1.25.5/ddev_macos-amd64.v1.25.5.tar.gz) | 19.3 MiB | `native/darwin/x64` |
-| [ddev_macos-arm64.v1.25.5.tar.gz](https://github.com/ddev/ddev/releases/download/v1.25.5/ddev_macos-arm64.v1.25.5.tar.gz) | 17.4 MiB | `native/darwin/arm64` |
-| [ddev_shell_completion_scripts.v1.25.5.tar.gz](https://github.com/ddev/ddev/releases/download/v1.25.5/ddev_shell_completion_scripts.v1.25.5.tar.gz) | 20.1 KiB | `native/unknown` |
-| [ddev_windows-amd64.v1.25.5.zip](https://github.com/ddev/ddev/releases/download/v1.25.5/ddev_windows-amd64.v1.25.5.zip) | 18.9 MiB | `native/win/x64` |
-| [ddev_windows-arm64.v1.25.5.zip](https://github.com/ddev/ddev/releases/download/v1.25.5/ddev_windows-arm64.v1.25.5.zip) | 17.0 MiB | `native/win/arm64` |
-| [ddev_windows_amd64_installer.v1.25.5.exe](https://github.com/ddev/ddev/releases/download/v1.25.5/ddev_windows_amd64_installer.v1.25.5.exe) | 37.0 MiB | `native/win/x64` |
-| [ddev_windows_arm64_installer.v1.25.5.exe](https://github.com/ddev/ddev/releases/download/v1.25.5/ddev_windows_arm64_installer.v1.25.5.exe) | 33.4 MiB | `native/win/arm64` |
+| [checksums.txt](https://github.com/ddev/ddev/releases/download/v1.25.6/checksums.txt) | 1.6 KiB | `other` |
+| [ddev-wsl2_1.25.6_linux_amd64.deb](https://github.com/ddev/ddev/releases/download/v1.25.6/ddev-wsl2_1.25.6_linux_amd64.deb) | 4.4 MiB | `native/linux/x64` |
+| [ddev-wsl2_1.25.6_linux_amd64.rpm](https://github.com/ddev/ddev/releases/download/v1.25.6/ddev-wsl2_1.25.6_linux_amd64.rpm) | 4.4 MiB | `native/linux/x64` |
+| [ddev-wsl2_1.25.6_linux_arm64.deb](https://github.com/ddev/ddev/releases/download/v1.25.6/ddev-wsl2_1.25.6_linux_arm64.deb) | 4.1 MiB | `native/linux/arm64` |
+| [ddev-wsl2_1.25.6_linux_arm64.rpm](https://github.com/ddev/ddev/releases/download/v1.25.6/ddev-wsl2_1.25.6_linux_arm64.rpm) | 4.1 MiB | `native/linux/arm64` |
+| [ddev_1.25.6_linux_amd64.deb](https://github.com/ddev/ddev/releases/download/v1.25.6/ddev_1.25.6_linux_amd64.deb) | 18.8 MiB | `native/linux/x64` |
+| [ddev_1.25.6_linux_amd64.rpm](https://github.com/ddev/ddev/releases/download/v1.25.6/ddev_1.25.6_linux_amd64.rpm) | 19.3 MiB | `native/linux/x64` |
+| [ddev_1.25.6_linux_arm64.deb](https://github.com/ddev/ddev/releases/download/v1.25.6/ddev_1.25.6_linux_arm64.deb) | 17.1 MiB | `native/linux/arm64` |
+| [ddev_1.25.6_linux_arm64.rpm](https://github.com/ddev/ddev/releases/download/v1.25.6/ddev_1.25.6_linux_arm64.rpm) | 17.5 MiB | `native/linux/arm64` |
+| [ddev_linux-amd64.v1.25.6.tar.gz](https://github.com/ddev/ddev/releases/download/v1.25.6/ddev_linux-amd64.v1.25.6.tar.gz) | 18.8 MiB | `native/linux/x64` |
+| [ddev_linux-arm64.v1.25.6.tar.gz](https://github.com/ddev/ddev/releases/download/v1.25.6/ddev_linux-arm64.v1.25.6.tar.gz) | 17.1 MiB | `native/linux/arm64` |
+| [ddev_macos-amd64.v1.25.6.tar.gz](https://github.com/ddev/ddev/releases/download/v1.25.6/ddev_macos-amd64.v1.25.6.tar.gz) | 19.8 MiB | `native/darwin/x64` |
+| [ddev_macos-arm64.v1.25.6.tar.gz](https://github.com/ddev/ddev/releases/download/v1.25.6/ddev_macos-arm64.v1.25.6.tar.gz) | 17.9 MiB | `native/darwin/arm64` |
+| [ddev_shell_completion_scripts.v1.25.6.tar.gz](https://github.com/ddev/ddev/releases/download/v1.25.6/ddev_shell_completion_scripts.v1.25.6.tar.gz) | 20.8 KiB | `native/unknown` |
+| [ddev_windows-amd64.v1.25.6.zip](https://github.com/ddev/ddev/releases/download/v1.25.6/ddev_windows-amd64.v1.25.6.zip) | 19.4 MiB | `native/win/x64` |
+| [ddev_windows-arm64.v1.25.6.zip](https://github.com/ddev/ddev/releases/download/v1.25.6/ddev_windows-arm64.v1.25.6.zip) | 17.4 MiB | `native/win/arm64` |
+| [ddev_windows_amd64_installer.v1.25.6.exe](https://github.com/ddev/ddev/releases/download/v1.25.6/ddev_windows_amd64_installer.v1.25.6.exe) | 37.9 MiB | `native/win/x64` |
+| [ddev_windows_arm64_installer.v1.25.6.exe](https://github.com/ddev/ddev/releases/download/v1.25.6/ddev_windows_arm64_installer.v1.25.6.exe) | 34.3 MiB | `native/win/arm64` |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/ddev) 上共有 **10** 个发行版报告此项目。**4** 个 ✅ 已是最新上游版本，**6** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/ddev) 上共有 **10** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**8** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
-| Nix unstable | `1.25.5` | ✅ latest |
+| Nix unstable | `1.25.5` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -95,4 +95,4 @@ ddev 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261120.yml` · 2026-11-20T07:20:12Z._
+_数据快照: `data/card/261121.yml` · 2026-11-21T07:01:29Z._
