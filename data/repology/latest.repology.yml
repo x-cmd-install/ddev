@@ -80,9 +80,9 @@
 - repo: nix_stable_26_05
   srcname: ddev
   visiblename: ddev
-  version: 1.25.5
+  version: 1.25.6
   origversion: null
-  status: outdated
+  status: newest
   summary: Docker-based local PHP+Node.js web development environments
   maintainers:
     - remy@remysplace.de
@@ -91,9 +91,9 @@
 - repo: nix_unstable
   srcname: ddev
   visiblename: ddev
-  version: 1.25.5
+  version: 1.25.6
   origversion: null
-  status: outdated
+  status: newest
   summary: Docker-based local PHP+Node.js web development environments
   maintainers:
     - remy@remysplace.de
